@@ -30,7 +30,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <head>
-          <link rel="icon" href="/officialicon.png" type="image/png" />
+          <link rel="icon" href="/officialicon-v2.png" type="image/png" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </head>
         <body
