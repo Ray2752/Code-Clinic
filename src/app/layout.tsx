@@ -31,7 +31,6 @@ export default function RootLayout({
       <html lang="en">
         <head>
           <link rel="icon" href="/officialicon-v2.png" type="image/png" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
         </head>
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen bg-gradient-to-b
